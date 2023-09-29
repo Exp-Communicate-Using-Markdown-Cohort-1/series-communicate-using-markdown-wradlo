@@ -6,3 +6,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 Comparison of header sizes while using markdown.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
